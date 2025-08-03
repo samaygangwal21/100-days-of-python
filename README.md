@@ -8,7 +8,7 @@ This repository contains mini-projects completed as part of the **100 Days of Py
 
 Generates a fun band name using the user’s city and pet's name.
 
-**File**: `bandname.py`  
+**File**: [bandname.py](bandname.py)  
 **Concepts**: Input, String concatenation, Print
 
 ---
@@ -17,7 +17,7 @@ Generates a fun band name using the user’s city and pet's name.
 
 Splits a bill and adds a tip.
 
-**File**: `billsplit.py`  
+**File**: [billsplit.py](billsplit.py)  
 **Concepts**: Math operations, Formatting, Input handling
 
 ---
@@ -26,7 +26,7 @@ Splits a bill and adds a tip.
 
 Randomly creates a password using letters, symbols, and numbers.
 
-**File**: `password_generator.py`  
+**File**: [password_generator.py](password_generator.py)  
 **Concepts**: Random library, List manipulation, String formatting
 
 ---
@@ -35,7 +35,7 @@ Randomly creates a password using letters, symbols, and numbers.
 
 Calculates total cost based on pizza size, toppings, and extras.
 
-**File**: `pizzadelhivery.py`  
+**File**: [pizzadelhivery.py](pizzadelhivery.py)  
 **Concepts**: Conditional logic, Nested `if` statements
 
 ---
@@ -44,7 +44,7 @@ Calculates total cost based on pizza size, toppings, and extras.
 
 A simple text-based adventure game with multiple decision points.
 
-**File**: `treasure_island.py`  
+**File**: [treasure_island.py](treasure_island.py)  
 **Concepts**: Conditionals, Input flow, ASCII art
 
 ---
