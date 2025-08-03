@@ -13,12 +13,23 @@ passw = []
 for i in range(nr_letters):
     passw.append(random.choice(letters))
 
-for i in range(nr_letters):
+for i in range(nr_symbols):
     passw.append(random.choice(symbols))
 
-for i in range(nr_letters):
+for i in range(nr_numbers):
     passw.append(random.choice(numbers))
 
 random.shuffle(passw)
 password = ''.join(passw)
-print(f"Your generated password is : {passw}")
+print(f"Your generated password is : {password}")
+
+
+# Output:
+# Welcome to the PyPassword Generator!
+# How many letters would you like in your password?
+# 5
+# How many symbols would you like?
+# 1
+# How many numbers would you like?
+# 2
+# Your generated password is : X6Kvr$4X

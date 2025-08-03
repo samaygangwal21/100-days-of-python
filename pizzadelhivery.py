@@ -23,3 +23,11 @@ else:
         if extra_cheese == 'Y':
             bill = bill + 1
 print("Your final bill is: $" ,  bill , sep="")
+
+
+# Output:
+# Welcome to Python Pizza Deliveries!
+# What size pizza do you want? S, M or L: S
+# Do you want pepperoni on your pizza? Y or N: Y
+# Do you want extra cheese? Y or N: Y
+# Your final bill is: $18
