@@ -21,4 +21,4 @@ for i in range(nr_letters):
 
 random.shuffle(passw)
 password = ''.join(passw)
-print(f"Your generated password is : {passw4}")
+print(f"Your generated password is : {passw}")
