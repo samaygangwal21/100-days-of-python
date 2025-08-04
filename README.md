@@ -49,6 +49,15 @@ A simple text-based adventure game with multiple decision points.
 
 ---
 
+### 6. 🎯 Hangman Word Guessing Game
+
+A classic word guessing game where the player tries to uncover the hidden word before the stick figure is fully drawn.
+
+**File**: [hangman.py](hangman.py)  
+**Concepts**: Lists, Loops, Conditionals, Random, String manipulation, ASCII art
+
+---
+
 ## 🎯 Goal
 
 Complete and upload all 100 projects with clean code and proper documentation.
