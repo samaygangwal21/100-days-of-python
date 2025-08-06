@@ -58,6 +58,15 @@ A classic word guessing game where the player tries to uncover the hidden word b
 
 ---
 
+### 7. 🕵️ Caesar Cipher Encoder/Decoder
+
+A simple encryption-decryption tool using the classic Caesar Cipher algorithm with text shifting based on user input.
+
+**File**: [ceasar_cipher.py](ceasar_cipher.py)  
+**Concepts**: Strings, Loops, Conditionals, Functions, Modulus operator
+
+---
+
 ## 🎯 Goal
 
 Complete and upload all 100 projects with clean code and proper documentation.
