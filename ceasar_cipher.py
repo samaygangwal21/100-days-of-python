@@ -2,10 +2,9 @@ alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n'
 
 def caesar(original_text, shift_amount, encode_or_decode):
     output_text = ""
-
+    if encode_or_decode == "decode":
+        shift_amount *= -1
     for letter in original_text:
-        if encode_or_decode == "decode":
-            shift_amount *= -1
         if letter in alphabet :
             shifted_position = alphabet.index(letter) + shift_amount
             shifted_position %= len(alphabet)
@@ -28,5 +27,22 @@ while not restart:
         restart = True
 
 
-
+"""Type 'encode' to encrypt, type 'decode' to decrypt:
+encode
+Type your message:
+hello!
+Type the shift number:
+2
+Here is the encoded result: jgnnq!
+Type 'yes' if you want to go again. Otherwise, type 'no'.
+yes
+Type 'encode' to encrypt, type 'decode' to decrypt:
+decode
+Type your message:
+jgnnq!
+Type the shift number:
+2
+Here is the decoded result: hello!
+Type 'yes' if you want to go again. Otherwise, type 'no'.
+no"""
 
