@@ -67,6 +67,15 @@ A simple encryption-decryption tool using the classic Caesar Cipher algorithm wi
 
 ---
 
+### 8. 💰 Auction Bidding System
+
+A command-line program that simulates a blind auction. Users enter their name and bid amount, and the program announces the winner with the highest bid.
+
+**File**: [auction.py](auction.py)  
+**Concepts**: Dictionaries, Loops, Conditionals, Input handling, `max()` with custom key
+
+---
+
 ## 🎯 Goal
 
 Complete and upload all 100 projects with clean code and proper documentation.
