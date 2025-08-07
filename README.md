@@ -76,6 +76,15 @@ A command-line program that simulates a blind auction. Users enter their name an
 
 ---
 
+### 9. 🧮 Chained Calculator
+
+A command-line calculator that performs basic arithmetic operations and allows chaining multiple calculations by reusing the previous result.
+
+**File**: [chained_calculator.py](calculator.py)  
+**Concepts**: Functions, Dictionaries, Loops, Input handling, Recursion, Higher-order functions
+
+---
+
 ## 🎯 Goal
 
 Complete and upload all 100 projects with clean code and proper documentation.
