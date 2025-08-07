@@ -80,8 +80,17 @@ A command-line program that simulates a blind auction. Users enter their name an
 
 A command-line calculator that performs basic arithmetic operations and allows chaining multiple calculations by reusing the previous result.
 
-**File**: [chained_calculator.py](calculator.py)  
+**File**: [chained_calculator.py](chained_calculator.py)  
 **Concepts**: Functions, Dictionaries, Loops, Input handling, Recursion, Higher-order functions
+
+---
+
+### 10. ♠️ Blackjack Card Game
+
+A command-line implementation of the classic Blackjack game where you play against the computer. Includes card dealing, score calculations, win/loss logic, and ASCII art.
+
+**File**: [blackjack.py](blackjack.py)  
+**Concepts**: Lists, Functions, Conditionals, Loops, Random module, Blackjack logic, ASCII art
 
 ---
 
