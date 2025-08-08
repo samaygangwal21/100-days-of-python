@@ -68,3 +68,24 @@ def play_game():
 while input("Do you want to play a game of Blackjack? Type 'yes' or 'no': ") == "yes":
     print("\n" * 30)
     play_game()
+
+"""
+.------.            _     _            _    _            _    
+|A_  _ |.          | |   | |          | |  (_)          | |   
+|( \/ ).-----.     | |__ | | __ _  ___| | ___  __ _  ___| | __
+| \  /|K /\  |     | '_ \| |/ _` |/ __| |/ / |/ _` |/ __| |/ /
+|  \/ | /  \ |     | |_) | | (_| | (__|   <| | (_| | (__|   <
+`-----| \  / |     |_.__/|_|\__,_|\___|_|\_\ |\__,_|\___|_|\_\
+      |  \/ K|                            _/ |
+      `------'                           |__/
+
+Your cards: [2, 11], current score: 13
+Computer's first card: 4
+Type 'hit' to get another card, type 'stand' to pass: hit
+Your cards: [2, 11, 6], current score: 19
+Computer's first card: 4
+Type 'hit' to get another card, type 'stand' to pass: stand
+Your final hand: [2, 11, 6], final score: 19
+Computer's final hand: [4, 10, 8], final score: 22
+Computer went over. You win 😎
+Do you want to play a game of Blackjack? Type 'yes' or 'no':"""
