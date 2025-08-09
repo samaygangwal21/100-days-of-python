@@ -94,6 +94,15 @@ A command-line implementation of the classic Blackjack game where you play again
 
 ---
 
+### 11. 🎯 Number Guessing Game
+
+A command-line game where the player tries to guess a randomly generated number between 1 and 100. The game features two difficulty levels — Easy (10 attempts) and Hard (5 attempts) — with hints provided after each incorrect guess.
+
+**File**: [number_guessing.py](number_guessing.py)  
+**Concepts**: Random number generation, Conditionals, Loops, Functions, User input handling
+
+---
+
 ## 🎯 Goal
 
 Complete and upload all 100 projects with clean code and proper documentation.
