@@ -18,7 +18,7 @@ while True :
         choice_b = random.choice(data)
     print(f"Compare A : {choice_a['name']}, a {choice_a['description']}, from {choice_a['country']}")
     print(vs)
-    print(f"Compare B : {choice_b['name']}, a {choice_b['description']}, from {choice_b['country']}")
+    print(f"Against B : {choice_b['name']}, a {choice_b['description']}, from {choice_b['country']}")
     user_input = input("Who has more followers? Type 'A' or 'B': ").upper()
     if choice(user_input) == True:
         current_score += 1
