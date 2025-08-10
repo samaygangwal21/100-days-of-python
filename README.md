@@ -53,7 +53,7 @@ A simple text-based adventure game with multiple decision points.
 
 A classic word guessing game where the player tries to uncover the hidden word before the stick figure is fully drawn.
 
-**File**: [hangman.py](hangman.py)  
+**File**: [hangman.py](hangman/hangman.py)  
 **Concepts**: Lists, Loops, Conditionals, Random, String manipulation, ASCII art
 
 ---
@@ -107,7 +107,7 @@ A command-line game where the player tries to guess a randomly generated number 
 
 A command-line game where the player guesses which of two public figures has more social media followers. The game continues until the player guesses incorrectly, with the score increasing for each correct answer.
 
-**File**: [higher_lower_game.py](higher_lower_game.py)  
+**File**: [higher_lower_game.py](Higher_or_Lower/higher_lower_game.py)  
 **Concepts**: Random selection, Conditionals, Loops, Functions, Data comparison, ASCII art
 
 ---
