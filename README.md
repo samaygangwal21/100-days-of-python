@@ -103,6 +103,15 @@ A command-line game where the player tries to guess a randomly generated number 
 
 ---
 
+### 12. 📈 Higher Lower Game
+
+A command-line game where the player guesses which of two public figures has more social media followers. The game continues until the player guesses incorrectly, with the score increasing for each correct answer.
+
+**File**: [higher_lower_game.py](higher_lower_game.py)  
+**Concepts**: Random selection, Conditionals, Loops, Functions, Data comparison, ASCII art
+
+---
+
 ## 🎯 Goal
 
 Complete and upload all 100 projects with clean code and proper documentation.
