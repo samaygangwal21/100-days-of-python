@@ -1,76 +1,7 @@
 import random
+from hangman_words import word_list
+from hangman_art import stages, logo
 
-word_list = [
-    "apple", "chair", "house", "table", "zebra", "grape", "music", "light", "stone", "bread",
-    "picture", "holiday", "balloon", "diamond", "blanket", "monster", "journey", "battery", "kingdom", "flamingo",
-    "adventure", "happiness", "instrument", "volunteer", "pineapple", "backwards", "mysterious", "knowledge", "television", "wonderland"
-]
-
-logo = r''' 
- _                                             
-| |                                            
-| |__   __ _ _ __   __ _ _ __ ___   __ _ _ __  
-| '_ \ / _` | '_ \ / _` | '_ ` _ \ / _` | '_ \ 
-| | | | (_| | | | | (_| | | | | | | (_| | | | |
-|_| |_|\__,_|_| |_|\__, |_| |_| |_|\__,_|_| |_|
-                    __/ |                      
-                   |___/    '''
-stages = [r'''
-  +---+
-  |   |
-  O   |
- /|\  |
- / \  |
-      |
-=========
-''', r'''
-  +---+
-  |   |
-  O   |
- /|\  |
- /    |
-      |
-=========
-''', r'''
-  +---+
-  |   |
-  O   |
- /|\  |
-      |
-      |
-=========
-''', '''
-  +---+
-  |   |
-  O   |
- /|   |
-      |
-      |
-=========''', '''
-  +---+
-  |   |
-  O   |
-  |   |
-      |
-      |
-=========
-''', '''
-  +---+
-  |   |
-  O   |
-      |
-      |
-      |
-=========
-''', '''
-  +---+
-  |   |
-      |
-      |
-      |
-      |
-=========
-''']
 print(logo)
 lives = 6
 
@@ -112,7 +43,7 @@ while not game_over:
         if lives == 0:
             game_over = True
 
-            print(f"***********************IT WAS {chosen_word}YOU LOSE**********************")
+            print(f"***********************IT WAS {chosen_word} YOU LOSE**********************")
 
     if "_" not in display:
         game_over = True
