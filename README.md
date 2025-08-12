@@ -112,6 +112,15 @@ A command-line game where the player guesses which of two public figures has mor
 
 ---
 
+### 13. ☕ Coffee Machine
+
+A command-line coffee vending machine simulation where users can order drinks (espresso, latte, cappuccino), insert coins, and receive change. The machine checks resources, processes payments, updates profit, and allows viewing a resource report.
+
+**File**: [coffee_machine.py](coffee_machine.py)  
+**Concepts**: Dictionaries, Functions, Conditionals, Loops, User Input, Resource Management, Currency Calculation
+
+---
+
 ## 🎯 Goal
 
 Complete and upload all 100 projects with clean code and proper documentation.
