@@ -30,7 +30,7 @@ while len(data_states) > 0:
 
     if answer_state == "Exit":
         new_data = pandas.DataFrame(data_states)
-        new_data.to_csv("States/Ut_to_learn.csv")
+        new_data.to_csv("States_Ut_to_learn.csv")
         break
 
 if len(data_states) == 0 :
