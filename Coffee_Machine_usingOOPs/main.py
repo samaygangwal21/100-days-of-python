@@ -21,6 +21,7 @@ while is_on:
             coffee_maker.make_coffee(drink)
 
 """ 
+
 What would you like latte/espresso/cappuccino/: latte
 Please insert coins.
 How many quarters?: 12
@@ -30,6 +31,7 @@ How many pennies?: 0
 Here is $0.5 in change.
 Here is your latte ☕️. Enjoy!
 What would you like latte/espresso/cappuccino/: off
+
 """
 
 
