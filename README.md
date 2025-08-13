@@ -121,6 +121,15 @@ A command-line coffee vending machine simulation where users can order drinks (e
 
 ---
 
+### 14. ☕ Coffee Machine (OOP Version)
+
+A command-line coffee vending machine simulation built using Object-Oriented Programming. Users can order drinks, insert coins, and receive change. The machine manages resources, processes payments, and can display a status report. Designed with classes for modularity and reusability.
+
+**File**: [coffee_machine_oop.py](Coffee_Machine_usingOOPs/main.py)  
+**Concepts**: Classes, Objects, Methods, Dictionaries, Functions, Conditionals, Loops, Resource Management, Currency Calculation
+
+---
+
 ## 🎯 Goal
 
 Complete and upload all 100 projects with clean code and proper documentation.
