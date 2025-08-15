@@ -127,10 +127,10 @@ A command-line coffee machine simulation where users can order drinks (latte, es
 
 **Files**:
 
-- [menu.py](Coffee_Machine_usingOPPs/menu.py)
-- [coffee_maker.py](Coffee_Machine_usingOPPs/coffee_maker.py)
-- [money_machine.py](Coffee_Machine_usingOPPs/money_machine.py)
-- [main.py](Coffee_Machine_usingOPPs/main.py)
+- [menu.py](Coffee_Machine_usingOOPs/main.py)
+- [coffee_maker.py](Coffee_Machine_usingOOPs/coffee_maker.py)
+- [money_machine.py](Coffee_Machine_usingOOPs/money_machine.py)
+- [main.py](Coffee_Machine_usingOOPs/main.py)
 
 **Concepts**: Classes, Object-oriented programming, Conditionals, Loops, User input handling, Resource management
 
