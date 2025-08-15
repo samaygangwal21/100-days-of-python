@@ -121,12 +121,33 @@ A command-line coffee vending machine simulation where users can order drinks (e
 
 ---
 
-### 14. ☕ Coffee Machine (OOP Version)
+### 14. ☕ Coffee Machine using oops
 
-A command-line coffee vending machine simulation built using Object-Oriented Programming. Users can order drinks, insert coins, and receive change. The machine manages resources, processes payments, and can display a status report. Designed with classes for modularity and reusability.
+A command-line coffee machine simulation where users can order drinks (latte, espresso, cappuccino), insert coins, and receive change. The machine tracks resources, processes payments, and generates reports.
 
-**File**: [coffee_machine_oop.py](Coffee_Machine_usingOOPs/main.py)  
-**Concepts**: Classes, Objects, Methods, Dictionaries, Functions, Conditionals, Loops, Resource Management, Currency Calculation
+**Files**:
+
+- [menu.py](Coffee_Machine_usingOPPs/menu.py)
+- [coffee_maker.py](Coffee_Machine_usingOPPs/coffee_maker.py)
+- [money_machine.py](Coffee_Machine_usingOPPs/money_machine.py)
+- [main.py](Coffee_Machine_usingOPPs/main.py)
+
+**Concepts**: Classes, Object-oriented programming, Conditionals, Loops, User input handling, Resource management
+
+---
+
+### 15. ❓ Quiz Game
+
+A command-line trivia quiz that asks the player a series of True/False questions. Tracks the user's score and displays the final result at the end.
+
+**Files**:
+
+- [question_model.py](Quiz/question_model.py)
+- [data.py](Quiz/data.py)
+- [quiz_brain.py](Quiz/quiz_brain.py)
+- [main.py](Quiz/main.py)
+
+**Concepts**: Classes, Lists, Loops, Object-oriented programming, Input handling
 
 ---
 
