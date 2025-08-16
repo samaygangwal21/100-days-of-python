@@ -160,6 +160,15 @@ A Python Turtle Graphics program inspired by Damien Hirst's dot paintings. The p
 
 ---
 
+### 17. 🐢 Turtle Race Game
+
+A fun turtle graphics race where multiple colored turtles compete across the screen. The player bets on a turtle's color and wins if their chosen turtle reaches the finish line first.
+
+**File**: [turtle_race.py](turtle_race.py)  
+**Concepts**: Turtle graphics, Loops, Random module, User input, Event-driven simulation
+
+---
+
 ## 🎯 Goal
 
 Complete and upload all 100 projects with clean code and proper documentation.
