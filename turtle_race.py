@@ -25,6 +25,7 @@ while is_race_on:
         if s.xcor() > 230:
             winner = s.pencolor()
             is_race_on = False
+            break
         s.forward(random.randint(5,15))
 
 if winner == user_bet.lower():
