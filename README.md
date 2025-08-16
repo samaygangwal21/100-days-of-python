@@ -151,6 +151,15 @@ A command-line trivia quiz that asks the player a series of True/False questions
 
 ---
 
+### 16. 🎨 Hirst Painting
+
+A Python Turtle Graphics program inspired by Damien Hirst's dot paintings. The program generates a 10x10 grid of colorful dots using a predefined RGB color palette.
+
+**File**: [hirst_painting.py](hirst_painting.py)  
+**Concepts**: Turtle graphics, Loops, Random module, RGB color mode, Dot painting
+
+---
+
 ## 🎯 Goal
 
 Complete and upload all 100 projects with clean code and proper documentation.
