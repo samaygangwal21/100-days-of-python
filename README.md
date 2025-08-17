@@ -169,6 +169,21 @@ A fun turtle graphics race where multiple colored turtles compete across the scr
 
 ---
 
+### 18. 🐍 Snake Game
+
+A classic Snake game built with Python's Turtle Graphics. The player controls the snake with arrow keys to eat food and grow longer while avoiding collisions with walls and itself. The game tracks and displays the score.
+
+**Files**:
+
+- [snake.py](Snake Game/snake.py)
+- [food.py](Snake Game/food.py)
+- [scoreboard.py](Snake Game/scoreboard.py)
+- [snake_game.py](Snake Game/snake_game.py)
+
+**Concepts**: Turtle graphics, OOP (classes & objects), Loops, Collision detection, Score tracking
+
+---
+
 ## 🎯 Goal
 
 Complete and upload all 100 projects with clean code and proper documentation.
