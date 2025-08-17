@@ -175,10 +175,10 @@ A classic Snake game built with Python's Turtle Graphics. The player controls th
 
 **Files**:
 
-- [snake.py](Snake game/snake.py)
-- [food.py](Snake game/food.py)
-- [scoreboard.py](Snake game/scoreboard.py)
-- [snake_game.py](Snake game/snake_game.py)
+- [snake.py](Snake_game/snake.py)
+- [food.py](Snake_game/food.py)
+- [scoreboard.py](Snake_game/scoreboard.py)
+- [snake_game.py](Snake_game/snake_game.py)
 
 **Concepts**: Turtle graphics, OOP (classes & objects), Loops, Collision detection, Score tracking
 
