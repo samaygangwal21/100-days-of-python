@@ -184,6 +184,21 @@ A classic Snake game built with Python's Turtle Graphics. The player controls th
 
 ---
 
+### 19. 🏓 Pong Game
+
+A two-player Pong game built with Python's Turtle Graphics. Each player controls a paddle to bounce the ball back and forth. The game tracks the score, increases ball speed after each hit, and resets the ball when a player misses.
+
+**Files**:
+
+- [paddle.py](Pong_Game/paddle.py)
+- [ball.py](Pong_Game/ball.py)
+- [scoreboard.py](Pong_Game/scoreboard.py)
+- [main.py](Pong_Game/pong_game.py)
+
+**Concepts**: Turtle graphics, OOP (classes & objects), Collision detection, Game loop, Score tracking, Event-driven input
+
+---
+
 ## 🎯 Goal
 
 Complete and upload all 100 projects with clean code and proper documentation.
