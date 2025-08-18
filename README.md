@@ -190,10 +190,10 @@ A two-player Pong game built with Python's Turtle Graphics. Each player controls
 
 **Files**:
 
-- [paddle.py](Pong_Game/paddle.py)
-- [ball.py](Pong_Game/ball.py)
-- [scoreboard.py](Pong_Game/scoreboard.py)
-- [pong_game.py](Pong_Game/pong_game.py)
+- [paddle.py](Pong_game/paddle.py)
+- [ball.py](Pong_game/ball.py)
+- [scoreboard.py](Pong_game/scoreboard.py)
+- [pong_game.py](Pong_game/pong_game.py)
 
 **Concepts**: Turtle graphics, OOP (classes & objects), Collision detection, Game loop, Score tracking, Event-driven input
 
