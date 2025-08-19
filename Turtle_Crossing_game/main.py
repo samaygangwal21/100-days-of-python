@@ -30,6 +30,7 @@ while game_is_on:
 
     if player.ycor() > 280:
         player.restart()
+        car_manager.level_up()
 
 
 
