@@ -199,6 +199,20 @@ A two-player Pong game built with Python's Turtle Graphics. Each player controls
 
 ---
 
+### 26. 🐢 Turtle Crossing Game
+
+A Frogger-style arcade game where the player controls a turtle trying to cross a busy road. The player moves upward to reach the finish line while avoiding cars that increase in speed as the levels progress. The game tracks the level and displays a game-over message upon collision.
+
+**Files**:  
+- [player.py](Turtle_Crossing_game/player.py)  
+- [car_manager.py](Turtle_Crossing_game/car_manager.py)  
+- [scoreboard.py](Turtle_Crossing_game/scoreboard.py)  
+- [main.py](Turtle_Crossing_game/main.py)  
+
+**Concepts**: Turtle graphics, OOP (classes & objects), Collision detection, Event-driven input, Game loop, Score tracking
+
+---
+
 ## 🎯 Goal
 
 Complete and upload all 100 projects with clean code and proper documentation.
