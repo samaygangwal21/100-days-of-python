@@ -199,7 +199,7 @@ A two-player Pong game built with Python's Turtle Graphics. Each player controls
 
 ---
 
-### 26. 🐢 Turtle Crossing Game
+### 20. 🐢 Turtle Crossing Game
 
 A Frogger-style arcade game where the player controls a turtle trying to cross a busy road. The player moves upward to reach the finish line while avoiding cars that increase in speed as the levels progress. The game tracks the level and displays a game-over message upon collision.
 
@@ -210,6 +210,19 @@ A Frogger-style arcade game where the player controls a turtle trying to cross a
 - [main.py](Turtle_Crossing_game/main.py)  
 
 **Concepts**: Turtle graphics, OOP (classes & objects), Collision detection, Event-driven input, Game loop, Score tracking
+
+---
+
+### 21. ✉️ Mail Merge
+
+A Python script that generates personalized invitation letters by merging a template letter with a list of invited names. Each generated letter is saved as a separate text file in the output folder.
+
+**Files & Folders**:  
+- [main.py](mail_merge/main.py)  
+- [Input](mail_merge/Input/)  
+- [Output](mail_merge/Output/)  
+
+**Concepts**: File handling, Reading & writing text files, String manipulation, Loops, Automation
 
 ---
 
