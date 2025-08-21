@@ -237,7 +237,7 @@ A Python interactive game that lets users guess Indian states and union territor
 - [main.py](India_State_UT_game/main.py)
 - [28_states.csv](India_State_UT_game/28_states.csv)
 - [india_map.gif](India_State_UT_game/india_map.gif)
-- [States](India_State_UT_game/States_Ut_to_learn.csv) – stores `State_Ut_to_learn.csv` after quitting
+- [States_Ut_to_learn.csv](India_State_UT_game/States_Ut_to_learn.csv) – stores `State_Ut_to_learn.csv` after quitting
 
 **Concepts**: File handling, Loops, Conditional statements, Pandas, Turtle graphics, Automation
 
