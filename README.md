@@ -203,11 +203,12 @@ A two-player Pong game built with Python's Turtle Graphics. Each player controls
 
 A Frogger-style arcade game where the player controls a turtle trying to cross a busy road. The player moves upward to reach the finish line while avoiding cars that increase in speed as the levels progress. The game tracks the level and displays a game-over message upon collision.
 
-**Files**:  
-- [player.py](Turtle_Crossing_game/player.py)  
-- [car_manager.py](Turtle_Crossing_game/car_manager.py)  
-- [scoreboard.py](Turtle_Crossing_game/scoreboard.py)  
-- [main.py](Turtle_Crossing_game/main.py)  
+**Files**:
+
+- [player.py](Turtle_Crossing_game/player.py)
+- [car_manager.py](Turtle_Crossing_game/car_manager.py)
+- [scoreboard.py](Turtle_Crossing_game/scoreboard.py)
+- [main.py](Turtle_Crossing_game/main.py)
 
 **Concepts**: Turtle graphics, OOP (classes & objects), Collision detection, Event-driven input, Game loop, Score tracking
 
@@ -217,12 +218,28 @@ A Frogger-style arcade game where the player controls a turtle trying to cross a
 
 A Python script that generates personalized invitation letters by merging a template letter with a list of invited names. Each generated letter is saved as a separate text file in the output folder.
 
-**Files & Folders**:  
-- [main.py](mail_merge/main.py)  
-- [Input](mail_merge/Input/)  
-- [Output](mail_merge/Output/)  
+**Files & Folders**:
+
+- [main.py](mail_merge/main.py)
+- [Input](mail_merge/Input/)
+- [Output](mail_merge/Output/)
 
 **Concepts**: File handling, Reading & writing text files, String manipulation, Loops, Automation
+
+---
+
+### 22. 🗺️ India State/UT Quiz Game
+
+A Python interactive game that lets users guess Indian states and union territories on a map. Correct guesses appear on the map, and remaining states/UTs can be saved for later practice.
+
+**Files & Folders**:
+
+- [main.py](India_State_UT_game/main.py)
+- [28_states.csv](India_State_UT_game/28_states.csv)
+- [india_map.gif](India_State_UT_game/india_map.gif)
+- [States](India_State_UT_game/States_Ut_to_learn.csv) – stores `State_Ut_to_learn.csv` after quitting
+
+**Concepts**: File handling, Loops, Conditional statements, Pandas, Turtle graphics, Automation
 
 ---
 
