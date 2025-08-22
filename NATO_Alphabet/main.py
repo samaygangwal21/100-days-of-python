@@ -1,17 +1,9 @@
-import random
-numbers = [1, 2, 3]
-new_list = [n*n for n in numbers if n < 3]
-print(new_list)
+import pandas
 
-range_list = [n*n for n in range(1,4)]
-print(range_list)
+data = pandas.read_csv("nato_phonetic_alphabet.csv")
+phonetic_dict = {row.letter: row.code for (index, row) in data.iterrows()}
+print(phonetic_dict)
 
-names = ['Alex', 'Beth', 'Caroline', 'Dave', 'Eleanor', 'Freddie']
-short_names = [name for name in names if len(name) < 5 ]
-print(short_names)
-capital_names = [name.upper() for name in names if len(name) > 5]
-print(capital_names)
-
-# Dictionary Comprehension
-students_score = {student:random.randint(60,100) for student in names}
-print(students_score)
+word = input("Enter a word: ").upper()
+output_list = [phonetic_dict[letter] for letter in word]
+print(output_list)
