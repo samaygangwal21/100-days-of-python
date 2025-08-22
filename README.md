@@ -243,6 +243,18 @@ A Python interactive game that lets users guess Indian states and union territor
 
 ---
 
+### 23. 🔡 NATO Phonetic Alphabet
+
+A program that converts words into their NATO phonetic alphabet equivalent. It reads the phonetic alphabet from a CSV file, creates a dictionary, and generates a list of phonetic codes for each letter in the input word.
+
+**Files & Folders**:  
+- [main.py](NATO_Alphabet/main.py)  
+- [nato_phonetic_alphabet.csv](NATO_Alphabet/nato_phonetic_alphabet.csv)  
+
+**Concepts**: CSV handling with Pandas, Dictionaries, List comprehensions, User input
+
+---
+
 ## 🎯 Goal
 
 Complete and upload all 100 projects with clean code and proper documentation.
