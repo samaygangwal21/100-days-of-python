@@ -255,6 +255,17 @@ A program that converts words into their NATO phonetic alphabet equivalent. It r
 
 ---
 
+### 24. 📏 Miles to Km Converter
+
+A simple GUI application built with Tkinter that converts miles into kilometers. The user enters a distance in miles, and the program displays the equivalent distance in kilometers.
+
+**Files**:  
+- [miles_to_km.py](miles_to_km.py)  
+
+**Concepts**: Tkinter GUI, Entry widgets, Labels, Buttons, Event handling, Unit conversion
+
+---
+
 ## 🎯 Goal
 
 Complete and upload all 100 projects with clean code and proper documentation.
