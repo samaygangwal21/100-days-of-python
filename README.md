@@ -266,6 +266,18 @@ A simple GUI application built with Tkinter that converts miles into kilometers.
 
 ---
 
+### 25. ⏳ Pomodoro Timer
+
+A productivity timer application based on the Pomodoro Technique. It alternates between work sessions, short breaks, and long breaks, with a visual timer and checkmarks to track completed cycles. Built using Tkinter.
+
+**Files & Folders**:  
+- [main.py](pomodoro_Timer/main.py)  
+- [tomato.png](pomodoro_Timer/tomato.png)  
+
+**Concepts**: Tkinter GUI, Timer with `after()`, Canvas widget, Labels, Buttons, Pomodoro technique
+
+---
+
 ## 🎯 Goal
 
 Complete and upload all 100 projects with clean code and proper documentation.
