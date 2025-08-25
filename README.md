@@ -285,7 +285,7 @@ A GUI-based password manager that allows users to generate strong random passwor
 **Files & Folders**:  
 - [main.py](password_manager/main.py)  
 - [logo.png](password_manager/logo.png)  
-- [data.txt](password_manager/data.txt)  
+- [data.json](password_manager/data.json)  
 
 **Concepts**: Tkinter GUI, Random password generation, Clipboard handling (`pyperclip`), File handling, Messagebox dialogs
 
