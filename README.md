@@ -271,10 +271,24 @@ A simple GUI application built with Tkinter that converts miles into kilometers.
 A productivity timer application based on the Pomodoro Technique. It alternates between work sessions, short breaks, and long breaks, with a visual timer and checkmarks to track completed cycles. Built using Tkinter.
 
 **Files & Folders**:  
-- [main.py](pomodoro_Timer/main.py)  
-- [tomato.png](pomodoro_Timer/tomato.png)  
+- [main.py](pomodoro_timer/main.py)  
+- [tomato.png](pomodoro_timer/tomato.png)  
 
 **Concepts**: Tkinter GUI, Timer with `after()`, Canvas widget, Labels, Buttons, Pomodoro technique
+
+---
+
+### 26. 🔐 Password Manager
+
+A GUI-based password manager that allows users to generate strong random passwords, save website credentials, and automatically copy generated passwords to the clipboard. Built with Tkinter.
+
+**Files & Folders**:  
+- [main.py](password_manager/main.py)  
+- [logo.png](password_manager/logo.png)  
+- [data.txt](password_manager/data.txt)  
+
+**Concepts**: Tkinter GUI, Random password generation, Clipboard handling (`pyperclip`), File handling, Messagebox dialogs
+
 
 ---
 
