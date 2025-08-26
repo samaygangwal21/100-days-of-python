@@ -289,6 +289,22 @@ A GUI-based password manager that allows users to generate strong random passwor
 
 **Concepts**: Tkinter GUI, Random password generation, Clipboard handling (`pyperclip`), File handling, Messagebox dialogs
 
+---
+
+### 27. 🃏 Flash Card (French-English)
+
+A flash card learning app that helps users practice French-to-English translations. The app displays a French word, flips the card to reveal the English translation after a delay, and allows users to mark known words. Known words are removed from the learning list and progress is saved to a CSV file.
+
+**Files & Folders**:  
+- [main.py](flash_card/main.py)  
+- [french_words.csv](flash_card/data/french_words.csv)  
+- [words_to_learn.csv](flash_card/data/words_to_learn.csv)  
+- [card_front.png](flash_card/images/card_front.png)  
+- [card_back.png](flash_card/images/card_back.png)  
+- [right.png](flash_card/images/right.png)  
+- [wrong.png](flash_card/images/wrong.png)  
+
+**Concepts**: Tkinter GUI, Canvas, Buttons, CSV handling with Pandas, Random selection, State persistence (progress saving)
 
 ---
 
