@@ -308,6 +308,19 @@ A flash card learning app that helps users practice French-to-English translatio
 
 ---
 
+### 28. 🎂 Birthday Wisher (Email Automation)
+
+A Python script that automatically sends personalized birthday wishes via email. The program checks a CSV file of birthdays each day, selects a random letter template, replaces the placeholder with the person’s name, and sends a customized email. It can also be deployed on **PythonAnywhere** to run daily.
+
+**Files & Folders**:  
+- [main.py](Automated_Birthday_Wisher/main.py)  
+- [birthdays.csv](Automated_Birthday_Wisher/birthdays.csv)  
+- [letter_templates](Automated_Birthday_Wisher/letter_templates/)  
+
+**Concepts**: DateTime handling, CSV data with Pandas, String replacement, SMTP email sending, Automation with PythonAnywhere  
+
+---
+
 ## 🎯 Goal
 
 Complete and upload all 100 projects with clean code and proper documentation.
