@@ -27,3 +27,4 @@ if today_tuple in birthdays_dict:
             msg=f"Subject:Happy Birthday!\n\n{contents}"
         )
 
+#Go to pythonanywhere.com and upload this
