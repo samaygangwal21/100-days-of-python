@@ -321,6 +321,16 @@ A Python script that automatically sends personalized birthday wishes via email.
 
 ---
 
+### 29. 🛰️ ISS Overhead Notifier
+
+A Python script that checks if the International Space Station (ISS) is currently overhead at the user's location **and** whether it is nighttime. If both conditions are met, the program notifies the user to look up at the sky.
+
+**Files & Folders**:  
+- [iss_overhead_notifier.py](iss_overhead_notifier.py)
+
+**Concepts**: APIs (`requests`), JSON parsing, Datetime handling, Conditional logic, Loops, Astronomical calculations (sunrise/sunset)
+
+
 ## 🎯 Goal
 
 Complete and upload all 100 projects with clean code and proper documentation.
