@@ -330,6 +330,23 @@ A Python script that checks if the International Space Station (ISS) is currentl
 
 **Concepts**: APIs (`requests`), JSON parsing, Datetime handling, Conditional logic, Loops, Astronomical calculations (sunrise/sunset)
 
+---
+
+### 29. 🤔 Quizzler App (GUI Quiz Game)
+
+A trivia quiz application with a graphical interface built using Tkinter. The app fetches True/False questions, displays them one at a time, provides instant feedback on correctness, and tracks the user’s score throughout the game.
+
+**Files & Folders**:  
+- [main.py](quizzler_app/main.py)  
+- [question_model.py](quizzler_app/question_model.py)  
+- [data.py](quizzler_app/data.py)  
+- [quiz_brain.py](quizzler_app/quiz_brain.py)  
+- [ui.py](quizzler_app/ui.py)  
+- [images](quizzler_app/images/)
+
+**Concepts**: Tkinter GUI, OOP (classes & objects), API data handling, Quiz logic, Score tracking
+
+---
 
 ## 🎯 Goal
 
