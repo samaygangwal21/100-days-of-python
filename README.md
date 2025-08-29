@@ -332,7 +332,7 @@ A Python script that checks if the International Space Station (ISS) is currentl
 
 ---
 
-### 29. 🤔 Quizzler App (GUI Quiz Game)
+### 30. 🤔 Quizzler App (GUI Quiz Game)
 
 A trivia quiz application with a graphical interface built using Tkinter. The app fetches True/False questions, displays them one at a time, provides instant feedback on correctness, and tracks the user’s score throughout the game.
 
