@@ -348,6 +348,17 @@ A trivia quiz application with a graphical interface built using Tkinter. The ap
 
 ---
 
+### 31. 📈 Stock News Alert
+
+A Python automation script that monitors stock price changes for a given company (e.g., Tesla). If the price change exceeds a set threshold, the program fetches the latest news articles related to the company and sends them via SMS using Twilio.
+
+**Files & Folders**:  
+- [stock_trading_news.py](stock_trading_news.py)  
+
+**Concepts**: REST APIs (`requests`), JSON parsing, Stock market data (Alpha Vantage), News data (NewsAPI), Automation, Twilio SMS integration
+
+---
+
 ## 🎯 Goal
 
 Complete and upload all 100 projects with clean code and proper documentation.
