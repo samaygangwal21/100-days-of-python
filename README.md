@@ -247,9 +247,10 @@ A Python interactive game that lets users guess Indian states and union territor
 
 A program that converts words into their NATO phonetic alphabet equivalent. It reads the phonetic alphabet from a CSV file, creates a dictionary, and generates a list of phonetic codes for each letter in the input word.
 
-**Files & Folders**:  
-- [main.py](NATO_Alphabet/main.py)  
-- [nato_phonetic_alphabet.csv](NATO_Alphabet/nato_phonetic_alphabet.csv)  
+**Files & Folders**:
+
+- [main.py](NATO_Alphabet/main.py)
+- [nato_phonetic_alphabet.csv](NATO_Alphabet/nato_phonetic_alphabet.csv)
 
 **Concepts**: CSV handling with Pandas, Dictionaries, List comprehensions, User input
 
@@ -259,8 +260,9 @@ A program that converts words into their NATO phonetic alphabet equivalent. It r
 
 A simple GUI application built with Tkinter that converts miles into kilometers. The user enters a distance in miles, and the program displays the equivalent distance in kilometers.
 
-**Files**:  
-- [miles_to_km.py](miles_to_km.py)  
+**Files**:
+
+- [miles_to_km.py](miles_to_km.py)
 
 **Concepts**: Tkinter GUI, Entry widgets, Labels, Buttons, Event handling, Unit conversion
 
@@ -270,9 +272,10 @@ A simple GUI application built with Tkinter that converts miles into kilometers.
 
 A productivity timer application based on the Pomodoro Technique. It alternates between work sessions, short breaks, and long breaks, with a visual timer and checkmarks to track completed cycles. Built using Tkinter.
 
-**Files & Folders**:  
-- [main.py](pomodoro_timer/main.py)  
-- [tomato.png](pomodoro_timer/tomato.png)  
+**Files & Folders**:
+
+- [main.py](pomodoro_timer/main.py)
+- [tomato.png](pomodoro_timer/tomato.png)
 
 **Concepts**: Tkinter GUI, Timer with `after()`, Canvas widget, Labels, Buttons, Pomodoro technique
 
@@ -282,10 +285,11 @@ A productivity timer application based on the Pomodoro Technique. It alternates 
 
 A GUI-based password manager that allows users to generate strong random passwords, save website credentials, and automatically copy generated passwords to the clipboard. Built with Tkinter.
 
-**Files & Folders**:  
-- [main.py](password_manager/main.py)  
-- [logo.png](password_manager/logo.png)  
-- [data.json](password_manager/data.json)  
+**Files & Folders**:
+
+- [main.py](password_manager/main.py)
+- [logo.png](password_manager/logo.png)
+- [data.json](password_manager/data.json)
 
 **Concepts**: Tkinter GUI, Random password generation, Clipboard handling (`pyperclip`), File handling, Messagebox dialogs
 
@@ -295,14 +299,15 @@ A GUI-based password manager that allows users to generate strong random passwor
 
 A flash card learning app that helps users practice French-to-English translations. The app displays a French word, flips the card to reveal the English translation after a delay, and allows users to mark known words. Known words are removed from the learning list and progress is saved to a CSV file.
 
-**Files & Folders**:  
-- [main.py](flash_card/main.py)  
-- [french_words.csv](flash_card/data/french_words.csv)  
-- [words_to_learn.csv](flash_card/data/words_to_learn.csv)  
-- [card_front.png](flash_card/images/card_front.png)  
-- [card_back.png](flash_card/images/card_back.png)  
-- [right.png](flash_card/images/right.png)  
-- [wrong.png](flash_card/images/wrong.png)  
+**Files & Folders**:
+
+- [main.py](flash_card/main.py)
+- [french_words.csv](flash_card/data/french_words.csv)
+- [words_to_learn.csv](flash_card/data/words_to_learn.csv)
+- [card_front.png](flash_card/images/card_front.png)
+- [card_back.png](flash_card/images/card_back.png)
+- [right.png](flash_card/images/right.png)
+- [wrong.png](flash_card/images/wrong.png)
 
 **Concepts**: Tkinter GUI, Canvas, Buttons, CSV handling with Pandas, Random selection, State persistence (progress saving)
 
@@ -312,12 +317,13 @@ A flash card learning app that helps users practice French-to-English translatio
 
 A Python script that automatically sends personalized birthday wishes via email. The program checks a CSV file of birthdays each day, selects a random letter template, replaces the placeholder with the person’s name, and sends a customized email. It can also be deployed on **PythonAnywhere** to run daily.
 
-**Files & Folders**:  
-- [main.py](Automated_Birthday_Wisher/main.py)  
-- [birthdays.csv](Automated_Birthday_Wisher/birthdays.csv)  
-- [letter_templates](Automated_Birthday_Wisher/letter_templates/)  
+**Files & Folders**:
 
-**Concepts**: DateTime handling, CSV data with Pandas, String replacement, SMTP email sending, Automation with PythonAnywhere  
+- [main.py](Automated_Birthday_Wisher/main.py)
+- [birthdays.csv](Automated_Birthday_Wisher/birthdays.csv)
+- [letter_templates](Automated_Birthday_Wisher/letter_templates/)
+
+**Concepts**: DateTime handling, CSV data with Pandas, String replacement, SMTP email sending, Automation with PythonAnywhere
 
 ---
 
@@ -325,7 +331,8 @@ A Python script that automatically sends personalized birthday wishes via email.
 
 A Python script that checks if the International Space Station (ISS) is currently overhead at the user's location **and** whether it is nighttime. If both conditions are met, the program notifies the user to look up at the sky.
 
-**Files & Folders**:  
+**Files & Folders**:
+
 - [iss_overhead_notifier.py](iss_overhead_notifier.py)
 
 **Concepts**: APIs (`requests`), JSON parsing, Datetime handling, Conditional logic, Loops, Astronomical calculations (sunrise/sunset)
@@ -336,12 +343,13 @@ A Python script that checks if the International Space Station (ISS) is currentl
 
 A trivia quiz application with a graphical interface built using Tkinter. The app fetches True/False questions, displays them one at a time, provides instant feedback on correctness, and tracks the user’s score throughout the game.
 
-**Files & Folders**:  
-- [main.py](quizzler_app/main.py)  
-- [question_model.py](quizzler_app/question_model.py)  
-- [data.py](quizzler_app/data.py)  
-- [quiz_brain.py](quizzler_app/quiz_brain.py)  
-- [ui.py](quizzler_app/ui.py)  
+**Files & Folders**:
+
+- [main.py](quizzler_app/main.py)
+- [question_model.py](quizzler_app/question_model.py)
+- [data.py](quizzler_app/data.py)
+- [quiz_brain.py](quizzler_app/quiz_brain.py)
+- [ui.py](quizzler_app/ui.py)
 - [images](quizzler_app/images/)
 
 **Concepts**: Tkinter GUI, OOP (classes & objects), API data handling, Quiz logic, Score tracking
@@ -352,10 +360,40 @@ A trivia quiz application with a graphical interface built using Tkinter. The ap
 
 A Python automation script that monitors stock price changes for a given company (e.g., Tesla). If the price change exceeds a set threshold, the program fetches the latest news articles related to the company and sends them via SMS using Twilio.
 
-**Files & Folders**:  
-- [stock_trading_news.py](stock_trading_news.py)  
+**Files & Folders**:
+
+- [stock_trading_news.py](stock_trading_news.py)
 
 **Concepts**: REST APIs (`requests`), JSON parsing, Stock market data (Alpha Vantage), News data (NewsAPI), Automation, Twilio SMS integration
+
+---
+
+### 32. 🏋️ Habit Tracker
+
+A Python script that uses the **Nutritionix API** to calculate calories burned from exercises described in natural language, and then logs the results into **Google Sheets** via the **Sheety API**.
+
+**File**: [habit_tracker.py](habit_tracker.py)  
+**Concepts**: REST APIs (`requests`), Authentication (Basic Auth / Bearer Token), JSON parsing, Environment variables (`os`), Google Sheets automation
+
+---
+
+### 33. 🏃 Exercise Tracker
+
+A Python script that uses the **Nutritionix API** to estimate calories burned from exercises described in natural language.  
+It calculates exercise details such as **duration** and **calories burned** based on personal data (age, gender, height, weight).
+
+**File**: [exercise_tracker.py](exercise_tracker.py)  
+**Concepts**: REST APIs (`requests`), JSON parsing, Natural Language Processing (Nutritionix API)
+
+---
+
+### 34. 🎬 Movie Ranking
+
+A simple HTML webpage showcasing my top 3 favorite movies of all time.  
+Demonstrates the basics of HTML structure with headings, paragraphs, and a horizontal rule.
+
+**File**: [Movie Ranking/index.html](Movie%20Ranking/index.html)  
+**Concepts**: HTML basics (headings, paragraphs, `<hr />`), content structuring
 
 ---
 
